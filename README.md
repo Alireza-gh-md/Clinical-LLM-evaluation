@@ -22,6 +22,10 @@ A portfolio project focused on evaluating Large Language Models (LLMs) in clinic
 - Endocrinology
 - Occupational Medicine
 
+## Author
+
+Alireza Gh, MD 
+
 ## Status
 
 Project setup phase.
